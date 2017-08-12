@@ -457,6 +457,20 @@ div.fin_impact {
   z-index: 10;
 }
 
+div.timeline_title {
+   margin: 1% 0 1% 1.6%;
+  margin: 0 0 20px 0;
+  color: #ffffff;
+  font-family: "Bebas Neue";
+  font-weight: bolder;
+  line-height: 1.8em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-shadow: 4px 4px 6px #000000;
+  font-size: 110px;
+  text-align: center;
+  z-index: 10;
+}
 div.strong_title{
   margin: 1% 0 1% 1.6%;
   margin: 0 0 20px 0;
