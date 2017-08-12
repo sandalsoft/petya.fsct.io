@@ -440,8 +440,8 @@ margin: 1% 0 1% 1.6%;
   font-size: 40px;
   text-align: left;
   z-index: 10;
-
 }
+
 div.fin_impact {
   margin: 1% 0 1% 1.6%;
   margin: 0 0 20px 0;
@@ -463,7 +463,7 @@ div.strong_title{
   color: #ffffff;
   font-family: "Bebas Neue";
   font-weight: bolder;
-  line-height: 1.2em;
+  line-height: 2.0em;
   letter-spacing: 0.01em;
   text-transform: uppercase;
   text-shadow: 4px 4px 6px #000000;
@@ -472,6 +472,20 @@ div.strong_title{
   z-index: 10;
 }
 
+div.sub_title {
+  margin: 1% 0 1% 1.6%;
+  margin: 0 0 20px 0;
+  color: #ffffff;
+  font-family: "TradeGothicLTStd-Cn18";
+  text-transform: lowercase;
+  /*font-style: italic;*/
+  line-height: 0.2em;
+  letter-spacing: 0.01em;
+  text-shadow: 4px 4px 6px #000000;
+  font-size: 55px;
+  text-align: center;
+  z-index: 10;
+}
 
 .col:first-child { margin-left: 0; }
 
