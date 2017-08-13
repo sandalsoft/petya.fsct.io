@@ -23,6 +23,26 @@
   },
   "scripts": {
     "test": "grunt test",
-    "start": "grunt"
+    "start": "serve"
+  },
+   "dependencies": {
+    "serve": "latest"
+  },
+  "now": {
+    "files": [
+      "index.html",
+      "bower_components",
+      "js",
+      "bower.json",
+      "petya.css",
+      "slides",
+      ".bowerrc",
+      "package.json"
+    ],
+    "name": "petya.b0.io",
+    "alias": [
+      "petya.b0.io",
+      "petya.fsct.io"
+  ]
   }
 }
