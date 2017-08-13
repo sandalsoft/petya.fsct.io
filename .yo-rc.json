@@ -4,7 +4,7 @@
     "packageVersion": "0.1.0",
     "revealTheme": "black",
     "useSass": false,
-    "deployToGithubPages": true,
+    "deployToGithubPages": false,
     "githubUsername": "sandalsoft",
     "githubRepository": "git@github.com:sandalsoft/petya.fsct.io.git"
   }
