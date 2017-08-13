@@ -320,10 +320,10 @@ div.titlebox {
 
 @font-face {
     font-family: 'Bebas-Neue-Book';
-    src:url('/assets/Bebas-Neue-Book.ttf.woff') format('woff'),
-        url('/assets/Bebas-Neue-Book.ttf.svg#Bebas-Neue-Book') format('svg'),
-        url('/assets/Bebas-Neue-Book.ttf.eot'),
-        url('/assets/Bebas-Neue-Book.ttf.eot?#iefix') format('embedded-opentype'); 
+    src:url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/Bebas-Neue-Book.ttf.woff') format('woff'),
+        url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/Bebas-Neue-Book.ttf.svg#Bebas-Neue-Book') format('svg'),
+        url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/Bebas-Neue-Book.ttf.eot'),
+        url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/Bebas-Neue-Book.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
     font-size: 40px;
@@ -331,25 +331,25 @@ div.titlebox {
 
 @font-face {
     font-family:'KyrillaSansSerif-Bold';
-    src:url('/assets/KyrillaSansSerif-Bold.woff');
+    src:url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/KyrillaSansSerif-Bold.woff');
     font-size: 40px;
 }
 
 @font-face {
     font-family:'TradeGothicLTStd';
-    src:url('/assets/TradeGothicLTStd.woff');
+    src:url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/TradeGothicLTStd.woff');
     font-size: 40px;
 }
 
 @font-face {
     font-family:'TradeGothicLTStd-BdCn20';
-    src:url('/assets/TradeGothicLTStd-BdCn20.woff');
+    src:url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/TradeGothicLTStd-BdCn20.woff');
     font-size: 40px;
 }
 
 @font-face {
   font-family:'TradeGothicLTStd-Cn18';
-  src:url('/assets/TradeGothicLTStd-Cn18.woff');
+  src:url('https://s3-us-west-1.amazonaws.com/v.fsct.io/fonts/TradeGothicLTStd-Cn18.woff');
   font-size: 30px;
 }
 
