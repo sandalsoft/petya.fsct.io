@@ -68,6 +68,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'resources/**'
+                        '*.css'
                     ]
                     dest: 'dist/'
                 },{
@@ -132,12 +133,16 @@ module.exports = (grunt) ->
         ]
 
     
+#    grunt.registerTask 'deploy',
+#        'Deploy to Github Pages', [
+#            'dist'
+#            'buildcontrol'
+#        ]
+
     grunt.registerTask 'deploy',
-        'Deploy to Github Pages', [
+        'Deploy to now', [
             'dist'
-            'buildcontrol'
         ]
-    
 
     # Define default task.
     grunt.registerTask 'default', [
