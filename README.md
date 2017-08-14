@@ -1,2 +1,2 @@
 # petya.fsct.io
-Impact of Petya Malware 
+A brief update on the Petya malware, and how ForeScout can help.

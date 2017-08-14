@@ -17,16 +17,16 @@
     
 
         <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
+        <!-- <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css"> -->
 
         <!-- Printing and PDF exports -->
-        <script>
+        <!-- <script>
             var link = document.createElement( 'link' );
             link.rel = 'stylesheet';
             link.type = 'text/css';
             link.href = window.location.search.match( /print-pdf/gi ) ? 'bower_components/reveal.js/css/print/pdf.css' : 'bower_components/reveal.js/css/print/paper.css';
             document.getElementsByTagName( 'head' )[0].appendChild( link );
-        </script>
+        </script> -->
 
         <!--[if lt IE 9]>
         <script src="bower_components/reveal.js/lib/js/html5shiv.js"></script>
@@ -47,8 +47,8 @@
 
                     
                     
-                
-                    
+    <!-- Workaround to fix .gif not showing on first slide?                 -->
+    <!-- <section data-html="slides/petya-update.html"></section>                 -->
                         
     <section data-html="slides/petya-update.html"></section>
 
@@ -98,7 +98,7 @@
             viewDistance: 6,
             autoPlayMedia: true,
 
-            transition: 'slide', // none/fade/slide/convex/concave/zoom
+            transition: 'fade', // none/fade/slide/convex/concave/zoom
 
             // Optional reveal.js plugins
             dependencies: [
